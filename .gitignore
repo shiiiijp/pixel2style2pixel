@@ -1,0 +1,5 @@
+results/
+datasets/sample/
+checkpoints/
+pretrained_models/
+__pycache__/
